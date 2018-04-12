@@ -18,10 +18,12 @@
         "@angular/platform-browser-dynamic": "5.0.5",
         "@angular/router": "5.0.5",
         "babel-runtime": "6.26.0",
+        "bcrypt": "^2.0.0",
         "core-js": "^2.5.5",
         "meteor-node-stubs": "0.3.2",
         "meteor-rxjs": "^0.4.8",
         "rxjs": "5.5.2",
+        "simpl-schema": "^1.4.3",
         "tslib": "^1.9.0",
         "zone.js": "^0.8.18"
     },
